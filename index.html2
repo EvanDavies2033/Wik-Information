@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Information -Wikepedia </title>
+ <link rel="icon" type="images/x-icon" href="https://upload.wikimedia.org/wikipedia/commons/4/46/Wikipedia-W-visual-balanced.svg" />
+<style>
+img {
+  float: right;
+  border: 1px dotted black;
+  margin: 0px 0px 15px 20px;
+}
+</style>
+</head>
+
+<body>
+<a style="text-decoration:none" href="file:///C:/Users/Det0x/Desktop/html%20and%20css%20%20projects/index.html"><FONT COLOR="black "><h3 style="font-family: Times New Roman">Home</h3></a>
+<h5> A </h5>
+<br>
+<h5> B </h5>
+<br>
+<h5> C </h5>
+<br>
+<h5> D </h5>
+<a href="file:///C:/Users/Det0x/Desktop/html%20and%20css%20%20projects/lim.html%202">Darth Vader</a>
+<br>
+<h5> E </h5>
+<br>
+<h5> F </h5>
+<br>
+<h5> G </h5>
+<br>
+<h5> H </h5>
+<br>
+<h5> I </h5>
+<br>
+<h5> J </h5>
+<br>
+<h5> K </h5>
+<br>
+<h5> L </h5>
+<a href="file:///C:/Users/Det0x/Desktop/html%20and%20css%20%20projects/lim.html%207">Lego</a>
+<br>
+<h5> M </h5>
+<br>
+<h5> N </h5>
+<br>
+<h5> O </h5>
+<br>
+<h5> P </h5>
+<br>
+<h5> Q </h5>
+<br>
+<h5> R </h5>
+<br>
+<h5> S </h5>
+<br>
+<h5> T </h5>
+<br>
+<h5> U </h5>
+<br>
+<h5> V </h5>
+<br>
+<h5> W </h5>
+<br>
+<h5> X </h5>
+<br>
+<h5> Y </h5>
+<br>
+<h5> Z </h5>
+<br>
+
